@@ -9,3 +9,10 @@ EEG: In this app, a user learns about a number of common techniques involved in 
 EMG: This apps teaches users about the effects of the H-reflex and M-Wave on Electromyographic recordings. Users are able to manually adjust the stimulus intensity and view the effect these changes have on the soleus muscle at rest and in contraction. The app displays animations of the paths the physiological impulses take from a full view and individual motor pathway level. 
 
 TMS: This features common measurements and measuring techniques associated with Transcranial Magnetic Stimulation (TMS). Users can observe the motor pathways of electrical impulses originating from external stimuli and differences in responses of patients suffering from a number of common neurological impairments when compared with healthy controls
+
+
+The Teaching Apps are lincenced under the Apache License 2.0 which may be obtained at 
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Copyright 2016 Trinity College, University of Dublin
